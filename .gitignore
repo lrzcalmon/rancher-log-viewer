@@ -1,0 +1,8 @@
+# Executáveis
+*.exe
+
+# Credenciais e saídas locais
+config.json
+debug.log
+logs_*.txt
+logs_*.json
